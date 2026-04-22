@@ -8,6 +8,11 @@
       "description": "Typescript API skills for enterprise-grade development.",
       "path": "./typescript/SKILL.md",
       "version": "2026.4.22"
+    },
+    "typescript-tsdoc": {
+      "description": "Typescript TSDOC instructions.",
+      "path": "./typescript-tsdoc/SKILL.md",
+      "version": "2026.4.22"
     }
   }
 }
