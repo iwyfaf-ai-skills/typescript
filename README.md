@@ -4,7 +4,7 @@ Collection skills for TypeScript.
 
 ## Skills
 
-### [typeScript](yypeScript)
+### [typescript](typescript)
 
 Typescript API skills for enterprise-grade development.
 
