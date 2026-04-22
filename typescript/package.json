@@ -1,0 +1,13 @@
+{
+  "name": "@iwyfaf-ai-skills/typescript",
+  "version": "1.0.0",
+  "description": "AI skills for Typescript",
+  "author": "iWatchYouFromAfar",
+  "skills": {
+    "typescript": {
+      "description": "Typescript API skils for enterprise-grade development.",
+      "path": "./typescript/SKILL.md",
+      "version": "2026.4.22"
+    }
+  }
+}
