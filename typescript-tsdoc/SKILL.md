@@ -1,5 +1,5 @@
 ---
-name: iwyfaf-typescript-tsdoc
+name: typescript-tsdoc
 description: MUST be used when user asks to document TypeScript or Vue code — add TSDoc/JSDoc blocks, docblocks, или «задокументировать» functions, classes, methods, interfaces, type aliases, enums, generics, Vue composables, defineProps/defineEmits/defineModel. Enforces strict TSDoc spec (tsdoc.org) and writes all descriptions in Russian. Triggers on phrases like «добавь tsdoc», «задокументируй», «напиши док», «add tsdoc», «document this», «generate jsdoc».
 metadata:
    author: iWatchYouFromAfar
